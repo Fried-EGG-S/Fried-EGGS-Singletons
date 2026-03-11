@@ -1,0 +1,14 @@
+{
+    "name": "Fried-EGGS.Singletons",
+    "rootNamespace": "FriedEGGS.Singletons",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

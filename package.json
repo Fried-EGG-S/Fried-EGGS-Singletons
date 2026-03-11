@@ -1,0 +1,11 @@
+{
+  "name": "com.fried-eggs.singletons",
+  "version": "1.0.0",
+  "displayName": "Fried EGGS Singletons Package",
+  "description": "A Unity package providing singleton utilities for game development.",
+  "unity": "6000.2",
+  "author": {
+    "name": "Confsuin",
+    "url": "https://github.com/Fried-EGG-S/Fried-EGGS-Singletons"
+  }
+}
